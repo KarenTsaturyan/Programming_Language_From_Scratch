@@ -18,3 +18,6 @@
 • the Abstract Syntax Tree (AST)
 • the internal object system
 • the evaluator
+
+## GC (Garbage colector)
+It uses Golang GC right now by default [disable Go’s GC and find a way to take over all of its duties. If we want our GC]
